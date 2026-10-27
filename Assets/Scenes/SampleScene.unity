@@ -228,9 +228,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: heart
       objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -52.242
+      value: 53.79
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -541,9 +549,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: heart
       objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -51.893
+      value: 54.077
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1312,7 +1324,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 51.77588, y: 50.730103}
+  m_AnchoredPosition: {x: -54.3, y: 50.730103}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1510835794
@@ -1365,9 +1377,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: heart
       objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -52.544
+      value: 53.503
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1611,7 +1627,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 51.77588, y: 50.730103}
+  m_AnchoredPosition: {x: -54.299988, y: 50.730103}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1691445978
@@ -1664,9 +1680,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: heart
       objectReference: {fileID: 0}
+    - target: {fileID: -2253911629886400664, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -51.555
+      value: 54.364
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 4febddcc1dd897a4ba0456789bbb801b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1775,7 +1795,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 51.77588, y: 50.730103}
+  m_AnchoredPosition: {x: -54.299988, y: 50.730103}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1880938124
@@ -1861,7 +1881,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 51.77588, y: 50.730103}
+  m_AnchoredPosition: {x: -54.299988, y: 50.730103}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2104823644
