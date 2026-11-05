@@ -1,3 +1,4 @@
+
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -26,10 +27,13 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth;
-        uiManager = FindObjectOfType<UIManager>();
 
-        // Automatically adds an AudioSource if you don't have one
+        // Updated for Unity 6
+        uiManager = FindFirstObjectByType<UIManager>();
+
+        // Automatically add an AudioSource if missing
         audioSource = GetComponent<AudioSource>();
+
         if (audioSource == null)
         {
             audioSource = gameObject.AddComponent<AudioSource>();
@@ -40,7 +44,8 @@ public class PlayerController : MonoBehaviour
     {
         Move();
 
-        if (Input.GetKey(KeyCode.Space) && Time.time >= nextFireTime)
+        if (Input.GetKey(KeyCode.Space) &&
+            Time.time >= nextFireTime)
         {
             Shoot();
         }
@@ -51,22 +56,44 @@ public class PlayerController : MonoBehaviour
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
 
-        Vector3 movement = new Vector3(moveX, moveY, 0).normalized;
-        transform.position += movement * moveSpeed * Time.deltaTime;
+        Vector3 movement =
+            new Vector3(moveX, moveY, 0).normalized;
 
-        float clampedX = Mathf.Clamp(transform.position.x, minBounds.x, maxBounds.x);
-        float clampedY = Mathf.Clamp(transform.position.y, minBounds.y, maxBounds.y);
-        transform.position = new Vector3(clampedX, clampedY, transform.position.z);
+        transform.position +=
+            movement * moveSpeed * Time.deltaTime;
+
+        float clampedX = Mathf.Clamp(
+            transform.position.x,
+            minBounds.x,
+            maxBounds.x
+        );
+
+        float clampedY = Mathf.Clamp(
+            transform.position.y,
+            minBounds.y,
+            maxBounds.y
+        );
+
+        transform.position = new Vector3(
+            clampedX,
+            clampedY,
+            transform.position.z
+        );
     }
 
     void Shoot()
     {
         nextFireTime = Time.time + fireRate;
+
         if (fireballPrefab != null && firePoint != null)
         {
-            Instantiate(fireballPrefab, firePoint.position, Quaternion.identity);
+            Instantiate(
+                fireballPrefab,
+                firePoint.position,
+                Quaternion.identity
+            );
 
-            // Play the shooting sound
+            // Play shooting sound
             if (shootSound != null)
             {
                 audioSource.PlayOneShot(shootSound);
@@ -87,7 +114,10 @@ public class PlayerController : MonoBehaviour
     {
         currentHealth--;
 
-        if (uiManager != null) uiManager.UpdateHealthDisplay(currentHealth);
+        if (uiManager != null)
+        {
+            uiManager.UpdateHealthDisplay(currentHealth);
+        }
 
         if (currentHealth <= 0)
         {
@@ -98,6 +128,10 @@ public class PlayerController : MonoBehaviour
     void Die()
     {
         Destroy(gameObject);
-        if (uiManager != null) uiManager.ShowGameOver();
+
+        if (uiManager != null)
+        {
+            uiManager.ShowGameOver();
+        }
     }
 }

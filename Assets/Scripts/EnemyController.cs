@@ -1,3 +1,4 @@
+
 using UnityEngine;
 
 public class EnemyController : MonoBehaviour
@@ -19,7 +20,7 @@ public class EnemyController : MonoBehaviour
 
     void Start()
     {
-        uiManager = FindObjectOfType<UIManager>();
+        uiManager = FindFirstObjectByType<UIManager>();
         nextFireTime = Time.time + fireRate;
     }
 
@@ -37,17 +38,24 @@ public class EnemyController : MonoBehaviour
 
         if (enemyFireballPrefab != null && firePoint != null)
         {
-            // Find the player first
-            GameObject player = GameObject.FindGameObjectWithTag("Player");
+            GameObject player =
+                GameObject.FindGameObjectWithTag("Player");
 
-            // If the player is dead (null), stop running this shooting code immediately
-            if (player == null) return;
+            if (player == null)
+                return;
 
-            // Otherwise, spawn the bullet and shoot at the player
-            GameObject bullet = Instantiate(enemyFireballPrefab, firePoint.position, Quaternion.identity);
-            Vector3 directionToPlayer = (player.transform.position - firePoint.position).normalized;
+            GameObject bullet = Instantiate(
+                enemyFireballPrefab,
+                firePoint.position,
+                Quaternion.identity
+            );
 
-            Projectile projectileScript = bullet.GetComponent<Projectile>();
+            Vector3 directionToPlayer =
+                (player.transform.position - firePoint.position).normalized;
+
+            Projectile projectileScript =
+                bullet.GetComponent<Projectile>();
+
             if (projectileScript != null)
             {
                 projectileScript.direction = directionToPlayer;
@@ -61,7 +69,10 @@ public class EnemyController : MonoBehaviour
         {
             if (hitSound != null)
             {
-                AudioSource.PlayClipAtPoint(hitSound, transform.position);
+                AudioSource.PlayClipAtPoint(
+                    hitSound,
+                    transform.position
+                );
             }
 
             Destroy(other.gameObject);
@@ -69,24 +80,56 @@ public class EnemyController : MonoBehaviour
         }
         else if (other.CompareTag("Player"))
         {
-            other.GetComponent<PlayerController>().TakeDamage();
+            PlayerController player =
+                other.GetComponent<PlayerController>();
+
+            if (player != null)
+            {
+                player.TakeDamage();
+            }
+
             TakeDamage(health);
         }
     }
 
     void TakeDamage(int damageAmount)
     {
+        if (health <= 0)
+            return;
+
         health -= damageAmount;
+
+        Debug.Log("Enemy took damage! Health: " + health);
 
         if (health <= 0)
         {
-            if (uiManager != null) uiManager.AddScore(scoreValue);
+            if (uiManager != null)
+            {
+                uiManager.AddScore(scoreValue);
+            }
+
             Die();
         }
     }
 
     void Die()
     {
+        Debug.Log("Enemy died!");
+
+        EnemyRewardDrop rewardDrop =
+            GetComponent<EnemyRewardDrop>();
+
+        if (rewardDrop != null)
+        {
+            Debug.Log("Reward script found!");
+
+            rewardDrop.DropReward();
+        }
+        else
+        {
+            Debug.LogWarning("Reward script NOT found!");
+        }
+
         Destroy(gameObject);
     }
 }
