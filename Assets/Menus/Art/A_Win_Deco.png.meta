@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 6fe40812d5619e84bac9342c52b33d42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7687775633956421502
+    second: A_Win_Deco_0
+  - first:
+      213: 7917144125082822250
+    second: A_Win_Deco_1
+  - first:
+      213: 1390950783082747137
+    second: A_Win_Deco_2
+  - first:
+      213: -6467873092675225382
+    second: A_Win_Deco_3
+  - first:
+      213: 5421785668411550397
+    second: A_Win_Deco_4
+  - first:
+      213: 6350851346058293229
+    second: A_Win_Deco_5
+  - first:
+      213: 314960999710390120
+    second: A_Win_Deco_6
+  - first:
+      213: 8844681861973453851
+    second: A_Win_Deco_7
+  - first:
+      213: -4675735320695507302
+    second: A_Win_Deco_8
+  - first:
+      213: -6396210952241256518
+    second: A_Win_Deco_9
+  - first:
+      213: 1261887953563442424
+    second: A_Win_Deco_10
+  - first:
+      213: -7489167808889182454
+    second: A_Win_Deco_11
+  - first:
+      213: -6258789502538471794
+    second: A_Win_Deco_12
+  - first:
+      213: 4484608804988113446
+    second: A_Win_Deco_13
+  - first:
+      213: -6529814735414909091
+    second: A_Win_Deco_14
+  - first:
+      213: -9199522725278809062
+    second: A_Win_Deco_15
+  - first:
+      213: -5555406704802920388
+    second: A_Win_Deco_16
+  - first:
+      213: -4771521328961302596
+    second: A_Win_Deco_17
+  - first:
+      213: 4996671198976803783
+    second: A_Win_Deco_18
+  - first:
+      213: 3471444042046882182
+    second: A_Win_Deco_19
+  - first:
+      213: 4955922946294502088
+    second: A_Win_Deco_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_Win_Deco_0
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 5
+        width: 1084
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280cf11eac88f4590800000000000000
+      internalID: -7687775633956421502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_1
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 981
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66e12b82a85fdd60800000000000000
+      internalID: 7917144125082822250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 966
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d2bd1e56ad4310800000000000000
+      internalID: 1390950783082747137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 934
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad839c2c0bf7d36a0800000000000000
+      internalID: -6467873092675225382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_4
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 888
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba69fde65d0e3b40800000000000000
+      internalID: 5421785668411550397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_5
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 872
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defad17a6a1c22850800000000000000
+      internalID: 6350851346058293229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_6
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 708
+        width: 103
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867f6d94c57fe5400800000000000000
+      internalID: 314960999710390120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_7
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 426
+        width: 67
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca446da4f9eba70800000000000000
+      internalID: 8844681861973453851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 410
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96723abf737c1fb0800000000000000
+      internalID: -4675735320695507302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7623b07081c37a0800000000000000
+      internalID: -6396210952241256518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 368
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc5e727860238110800000000000000
+      internalID: 1261887953563442424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_11
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 317
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07aedf9e81211890800000000000000
+      internalID: -7489167808889182454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_12
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 314
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e862041ab105429a0800000000000000
+      internalID: -6258789502538471794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 290
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622d7e992f78c3e30800000000000000
+      internalID: 4484608804988113446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_14
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 220
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57ab7638107165a0800000000000000
+      internalID: -6529814735414909091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 185
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a148f9092dab45080800000000000000
+      internalID: -9199522725278809062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_16
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 183
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c380669290b37e2b0800000000000000
+      internalID: -5555406704802920388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_17
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 10
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfcf05c1a628cdb0800000000000000
+      internalID: -4771521328961302596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_18
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 8
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c300726bfdb75540800000000000000
+      internalID: 4996671198976803783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_19
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681c9d7b6fb0d2030800000000000000
+      internalID: 3471444042046882182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Win_Deco_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2571c79a9f6c440800000000000000
+      internalID: 4955922946294502088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      A_Win_Deco_0: -7687775633956421502
+      A_Win_Deco_1: 7917144125082822250
+      A_Win_Deco_10: 1261887953563442424
+      A_Win_Deco_11: -7489167808889182454
+      A_Win_Deco_12: -6258789502538471794
+      A_Win_Deco_13: 4484608804988113446
+      A_Win_Deco_14: -6529814735414909091
+      A_Win_Deco_15: -9199522725278809062
+      A_Win_Deco_16: -5555406704802920388
+      A_Win_Deco_17: -4771521328961302596
+      A_Win_Deco_18: 4996671198976803783
+      A_Win_Deco_19: 3471444042046882182
+      A_Win_Deco_2: 1390950783082747137
+      A_Win_Deco_20: 4955922946294502088
+      A_Win_Deco_3: -6467873092675225382
+      A_Win_Deco_4: 5421785668411550397
+      A_Win_Deco_5: 6350851346058293229
+      A_Win_Deco_6: 314960999710390120
+      A_Win_Deco_7: 8844681861973453851
+      A_Win_Deco_8: -4675735320695507302
+      A_Win_Deco_9: -6396210952241256518
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
