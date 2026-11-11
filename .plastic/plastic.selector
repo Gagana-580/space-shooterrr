@@ -1,0 +1,3 @@
+repository "space shooterrr/space shooterrr@5773892290521@cloud"
+  path "/"
+    smartbranch "/main/Gagana"

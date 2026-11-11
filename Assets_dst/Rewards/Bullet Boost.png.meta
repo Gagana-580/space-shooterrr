@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: dd54094097c6e0643896e16a6e6e3760
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1089186746830076992
+    second: Bullet Boost_0
+  - first:
+      213: 8270190143992937648
+    second: Bullet Boost_1
+  - first:
+      213: 4664136029396396315
+    second: Bullet Boost_2
+  - first:
+      213: -6606954503419001429
+    second: Bullet Boost_3
+  - first:
+      213: -4028429126290414837
+    second: Bullet Boost_4
+  - first:
+      213: -2799017399526068472
+    second: Bullet Boost_5
+  - first:
+      213: 2547139155601246881
+    second: Bullet Boost_6
+  - first:
+      213: -1179709671421754491
+    second: Bullet Boost_7
+  - first:
+      213: -5372608001814016285
+    second: Bullet Boost_8
+  - first:
+      213: 6491363091285992040
+    second: Bullet Boost_9
+  - first:
+      213: 1809450483630038940
+    second: Bullet Boost_10
+  - first:
+      213: -8982980867293682567
+    second: Bullet Boost_11
+  - first:
+      213: -4077067436714912511
+    second: Bullet Boost_12
+  - first:
+      213: 6491139322974521540
+    second: Bullet Boost_13
+  - first:
+      213: 6297712682577282405
+    second: Bullet Boost_14
+  - first:
+      213: 6917331671802182736
+    second: Bullet Boost_15
+  - first:
+      213: 724706455535622205
+    second: Bullet Boost_16
+  - first:
+      213: 2387733734627486771
+    second: Bullet Boost_17
+  - first:
+      213: -6917006520933326907
+    second: Bullet Boost_18
+  - first:
+      213: 2326351119870395078
+    second: Bullet Boost_19
+  - first:
+      213: -2578696936155065877
+    second: Bullet Boost_20
+  - first:
+      213: -8903640324508597486
+    second: Bullet Boost_21
+  - first:
+      213: -9208220517126295353
+    second: Bullet Boost_22
+  - first:
+      213: -619558389214976355
+    second: Bullet Boost_23
+  - first:
+      213: -5259690029788071986
+    second: Bullet Boost_24
+  - first:
+      213: -2385178804608032823
+    second: Bullet Boost_25
+  - first:
+      213: 7469416939835541621
+    second: Bullet Boost_26
+  - first:
+      213: 7394432615678312103
+    second: Bullet Boost_27
+  - first:
+      213: 6708434498537009941
+    second: Bullet Boost_28
+  - first:
+      213: -7605358450981093351
+    second: Bullet Boost_29
+  - first:
+      213: 2685945337441528551
+    second: Bullet Boost_30
+  - first:
+      213: -7461648028622664171
+    second: Bullet Boost_31
+  - first:
+      213: 4925457863603039672
+    second: Bullet Boost_32
+  - first:
+      213: 5121070716894605138
+    second: Bullet Boost_33
+  - first:
+      213: 4548060862818378601
+    second: Bullet Boost_34
+  - first:
+      213: 8382138478597513954
+    second: Bullet Boost_35
+  - first:
+      213: -472122563241176245
+    second: Bullet Boost_36
+  - first:
+      213: 1892046038921849037
+    second: Bullet Boost_37
+  - first:
+      213: -5822761469112098102
+    second: Bullet Boost_38
+  - first:
+      213: -8213213076346811063
+    second: Bullet Boost_39
+  - first:
+      213: 8560421962259663550
+    second: Bullet Boost_40
+  - first:
+      213: -867893412943603187
+    second: Bullet Boost_41
+  - first:
+      213: -6658073566250790274
+    second: Bullet Boost_42
+  - first:
+      213: -7797498760319061648
+    second: Bullet Boost_43
+  - first:
+      213: -7928914376898984043
+    second: Bullet Boost_44
+  - first:
+      213: 6434159673452095117
+    second: Bullet Boost_45
+  - first:
+      213: 1782709494240246892
+    second: Bullet Boost_46
+  - first:
+      213: 7528419101379133120
+    second: Bullet Boost_47
+  - first:
+      213: -5086096151567137842
+    second: Bullet Boost_48
+  - first:
+      213: -2061820952429130430
+    second: Bullet Boost_49
+  - first:
+      213: 2354758778675647337
+    second: Bullet Boost_50
+  - first:
+      213: -6279365023696207641
+    second: Bullet Boost_51
+  - first:
+      213: -4288795915536557845
+    second: Bullet Boost_52
+  - first:
+      213: 6911567984618211300
+    second: Bullet Boost_53
+  - first:
+      213: 6932423065073899346
+    second: Bullet Boost_54
+  - first:
+      213: 2286814132120948969
+    second: Bullet Boost_55
+  - first:
+      213: -6508742424362264245
+    second: Bullet Boost_56
+  - first:
+      213: -2287418289076519015
+    second: Bullet Boost_57
+  - first:
+      213: -7690630434529235330
+    second: Bullet Boost_58
+  - first:
+      213: -3925413872037533552
+    second: Bullet Boost_59
+  - first:
+      213: -5129840726717658227
+    second: Bullet Boost_60
+  - first:
+      213: 8959767006052067474
+    second: Bullet Boost_61
+  - first:
+      213: 5537186758723504064
+    second: Bullet Boost_62
+  - first:
+      213: 34620099098220483
+    second: Bullet Boost_63
+  - first:
+      213: -5746038542858464987
+    second: Bullet Boost_64
+  - first:
+      213: 3653781909938229503
+    second: Bullet Boost_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bullet Boost_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1193
+        height: 1246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3412dac6e62e0f0800000000000000
+      internalID: -1089186746830076992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1099
+        width: 114
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcb2ad5e1e95c270800000000000000
+      internalID: 8270190143992937648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_2
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1223
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19e540d1075ab040800000000000000
+      internalID: 4664136029396396315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1213
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba50b8062e16f44a0800000000000000
+      internalID: -6606954503419001429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_4
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1223
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b036f9c9d052818c0800000000000000
+      internalID: -4028429126290414837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_5
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1229
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f6c154184e729d0800000000000000
+      internalID: -2799017399526068472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1148
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aac9131191495320800000000000000
+      internalID: 2547139155601246881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1195
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58340d0ed44d0afe0800000000000000
+      internalID: -1179709671421754491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1122
+        width: 204
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee4476dc79a075b0800000000000000
+      internalID: -5372608001814016285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_9
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1197
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862ee2cb654f51a50800000000000000
+      internalID: 6491363091285992040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_10
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1185
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f5d63c0a57c1910800000000000000
+      internalID: 1809450483630038940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_11
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1181
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97464dcbe7a065380800000000000000
+      internalID: -8982980867293682567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_12
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1178
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1059b4d74c85b67c0800000000000000
+      internalID: -4077067436714912511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_13
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1179
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8477d92d8251a50800000000000000
+      internalID: 6491139322974521540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1171
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565cd7e6158f56750800000000000000
+      internalID: 6297712682577282405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_15
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1164
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cf353818c4fff50800000000000000
+      internalID: 6917331671802182736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_16
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1173
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3812a08eacae0a00800000000000000
+      internalID: 724706455535622205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1162
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c20be4e2fe22120800000000000000
+      internalID: 2387733734627486771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_18
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1151
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf55b2973bd100a0800000000000000
+      internalID: -6917006520933326907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_19
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1146
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c205ba940cd84020800000000000000
+      internalID: 2326351119870395078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_20
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1151
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1d6119cc0a63cd0800000000000000
+      internalID: -2578696936155065877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_21
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1110
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21342d16c4aef6480800000000000000
+      internalID: -8903640324508597486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1050
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c039371a34d53080800000000000000
+      internalID: -9208220517126295353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_23
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1058
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d966a357de2e667f0800000000000000
+      internalID: -619558389214976355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 885
+        width: 102
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec771d1f8c3d107b0800000000000000
+      internalID: -5259690029788071986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_25
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 913
+        width: 66
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf1c81b38426eed0800000000000000
+      internalID: -2385178804608032823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_26
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1003
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578ce22d123b8a760800000000000000
+      internalID: 7469416939835541621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_27
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 960
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae711d594d4e9660800000000000000
+      internalID: 7394432615678312103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_28
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 921
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513364432a5291d50800000000000000
+      internalID: 6708434498537009941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_29
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 893
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c1c3a8c6547690800000000000000
+      internalID: -7605358450981093351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_30
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 873
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaa15cbd05664520800000000000000
+      internalID: 2685945337441528551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ec3f6c6a6e27890800000000000000
+      internalID: -7461648028622664171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_32
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 395
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bda63ca4ddba5440800000000000000
+      internalID: 4925457863603039672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_33
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 401
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f68263fa2b11740800000000000000
+      internalID: 5121070716894605138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 369
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96365211245fd1f30800000000000000
+      internalID: 4548060862818378601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_35
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 213
+        width: 111
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e220fa2986535470800000000000000
+      internalID: 8382138478597513954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_36
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 328
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b431097b70fa279f0800000000000000
+      internalID: -472122563241176245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_37
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc82f9019d5e14a10800000000000000
+      internalID: 1892046038921849037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_38
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 198
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2edbd4b45613fa0800000000000000
+      internalID: -5822761469112098102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d41c7f83ec40e80800000000000000
+      internalID: -8213213076346811063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_40
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 104
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba80fb6b6abcc670800000000000000
+      internalID: 8560421962259663550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_41
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 75
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a589a0a8f94f3f0800000000000000
+      internalID: -867893412943603187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_42
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 133
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7214331e55c993a0800000000000000
+      internalID: -6658073566250790274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_43
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 121
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07132aeb038b9c390800000000000000
+      internalID: -7797498760319061648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c2762266d6f190800000000000000
+      internalID: -7928914376898984043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 95
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866144222aba4950800000000000000
+      internalID: 6434159673452095117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_46
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 93
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cf7edf6d47db810800000000000000
+      internalID: 1782709494240246892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_47
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 94
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cef7f119415a7860800000000000000
+      internalID: 7528419101379133120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_48
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 103
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec30c585f7e8a69b0800000000000000
+      internalID: -5086096151567137842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_49
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 79
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d010c84c0f263e0800000000000000
+      internalID: -2061820952429130430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 79
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963d1b612a8cda020800000000000000
+      internalID: 2354758778675647337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_51
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0439bc7c63bd8a0800000000000000
+      internalID: -6279365023696207641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_52
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 83
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be81c4c76d22b74c0800000000000000
+      internalID: -4288795915536557845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_53
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 61
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e781248672daef50800000000000000
+      internalID: 6911567984618211300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 34
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25754725c0ae43060800000000000000
+      internalID: 6932423065073899346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_55
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 70
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0996c46556cbf10800000000000000
+      internalID: 2286814132120948969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_56
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 29
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b495f55ff3d4ca5a0800000000000000
+      internalID: -6508742424362264245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_57
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 0
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fbcd27f257140e0800000000000000
+      internalID: -2287418289076519015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 55
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ea313dd54654590800000000000000
+      internalID: -7690630434529235330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_59
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 37
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098efc091e02689c0800000000000000
+      internalID: -3925413872037533552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_60
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 55
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b89a1c9052fc8b0800000000000000
+      internalID: -5129840726717658227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_61
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 53
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298aff10f9c775c70800000000000000
+      internalID: 8959767006052067474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_62
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 49
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c706b0150a08dc40800000000000000
+      internalID: 5537186758723504064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_63
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 0
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c796d4fbcefa7000800000000000000
+      internalID: 34620099098220483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_64
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521d73b9368f140b0800000000000000
+      internalID: -5746038542858464987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet Boost_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 23
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0dd9cd947d4b230800000000000000
+      internalID: 3653781909938229503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bullet Boost_0: -1089186746830076992
+      Bullet Boost_1: 8270190143992937648
+      Bullet Boost_10: 1809450483630038940
+      Bullet Boost_11: -8982980867293682567
+      Bullet Boost_12: -4077067436714912511
+      Bullet Boost_13: 6491139322974521540
+      Bullet Boost_14: 6297712682577282405
+      Bullet Boost_15: 6917331671802182736
+      Bullet Boost_16: 724706455535622205
+      Bullet Boost_17: 2387733734627486771
+      Bullet Boost_18: -6917006520933326907
+      Bullet Boost_19: 2326351119870395078
+      Bullet Boost_2: 4664136029396396315
+      Bullet Boost_20: -2578696936155065877
+      Bullet Boost_21: -8903640324508597486
+      Bullet Boost_22: -9208220517126295353
+      Bullet Boost_23: -619558389214976355
+      Bullet Boost_24: -5259690029788071986
+      Bullet Boost_25: -2385178804608032823
+      Bullet Boost_26: 7469416939835541621
+      Bullet Boost_27: 7394432615678312103
+      Bullet Boost_28: 6708434498537009941
+      Bullet Boost_29: -7605358450981093351
+      Bullet Boost_3: -6606954503419001429
+      Bullet Boost_30: 2685945337441528551
+      Bullet Boost_31: -7461648028622664171
+      Bullet Boost_32: 4925457863603039672
+      Bullet Boost_33: 5121070716894605138
+      Bullet Boost_34: 4548060862818378601
+      Bullet Boost_35: 8382138478597513954
+      Bullet Boost_36: -472122563241176245
+      Bullet Boost_37: 1892046038921849037
+      Bullet Boost_38: -5822761469112098102
+      Bullet Boost_39: -8213213076346811063
+      Bullet Boost_4: -4028429126290414837
+      Bullet Boost_40: 8560421962259663550
+      Bullet Boost_41: -867893412943603187
+      Bullet Boost_42: -6658073566250790274
+      Bullet Boost_43: -7797498760319061648
+      Bullet Boost_44: -7928914376898984043
+      Bullet Boost_45: 6434159673452095117
+      Bullet Boost_46: 1782709494240246892
+      Bullet Boost_47: 7528419101379133120
+      Bullet Boost_48: -5086096151567137842
+      Bullet Boost_49: -2061820952429130430
+      Bullet Boost_5: -2799017399526068472
+      Bullet Boost_50: 2354758778675647337
+      Bullet Boost_51: -6279365023696207641
+      Bullet Boost_52: -4288795915536557845
+      Bullet Boost_53: 6911567984618211300
+      Bullet Boost_54: 6932423065073899346
+      Bullet Boost_55: 2286814132120948969
+      Bullet Boost_56: -6508742424362264245
+      Bullet Boost_57: -2287418289076519015
+      Bullet Boost_58: -7690630434529235330
+      Bullet Boost_59: -3925413872037533552
+      Bullet Boost_6: 2547139155601246881
+      Bullet Boost_60: -5129840726717658227
+      Bullet Boost_61: 8959767006052067474
+      Bullet Boost_62: 5537186758723504064
+      Bullet Boost_63: 34620099098220483
+      Bullet Boost_64: -5746038542858464987
+      Bullet Boost_65: 3653781909938229503
+      Bullet Boost_7: -1179709671421754491
+      Bullet Boost_8: -5372608001814016285
+      Bullet Boost_9: 6491363091285992040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
